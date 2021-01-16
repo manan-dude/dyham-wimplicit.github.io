@@ -22,6 +22,8 @@ Jobs can be easily accessible to the people and communication will be made easy 
 
 
 **Team Members**
-Manan Jain (Team leader)
+Manan Jain (Team leader),
+
 Harshul Singhal
+
 Darshit Sharma
