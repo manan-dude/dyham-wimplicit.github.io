@@ -1,7 +1,7 @@
 ### **dyham-wimplicit**
 
 #**Track: Social Awareness (Priority)**
-#         **Healthcare (can also be conidered as track)**
+         **Healthcare (can also be conidered as track)**
 
 **Problem Statement:**
 
