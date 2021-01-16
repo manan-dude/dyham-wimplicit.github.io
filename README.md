@@ -1,6 +1,6 @@
 ### **dyham-wimplicit**
 
-#**Track: Social Awareness (Priority)**
+**Track: Social Awareness (Priority)**
          **Healthcare (can also be conidered as track)**
 
 **Problem Statement:**
@@ -24,5 +24,7 @@ Jobs can be easily accessible to the people and communication will be made easy 
 
 **Team Members**
 Manan Jain (Team leader)
+
 Harshul Singhal
+
 Darshit Sharma
